@@ -1,0 +1,9 @@
+You need to run Ts on the CMD to compilate
+
+cd (THE PATH OF RPCS)
+
+.\RPCDependences\Scripts\Activate
+
+pyinstaller RPC.py -i ..\Art\RPCLogoExport.ico --noconfirm
+
+And Ready :3
