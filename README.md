@@ -21,6 +21,10 @@ You can customize everything, such as:
 - Show or not the game image
 - And the most useless thing is to move the customization window (sometimes it doesn't work, and don't even ask me why :'<)
 
+### Special thanks to
+[Rigid Studios](https://devforum.roblox.com/u/Rigid_Studios) - The first studio to make a RPC in roblox
+[iArxic](https://github.com/iArxic/StudioPresence) - ZKPrecense has been inspired from StudioPrecense by iArxic
+
 If you want to modify the source code, it can be modified in: https://github.com/ZuKomaDEVYT/RPCStudio-By-ZuKomaDEV
 
 I hope you like the plugin too. It was made in 3 weeks, so keep that in mind...
