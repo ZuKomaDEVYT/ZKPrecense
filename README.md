@@ -1,7 +1,9 @@
-# ZKPrecense-By-ZuKomaDEV
+# ZKPrecense
 
 # Instalation
-
+Its sooo easy to use this just do you need
+- Download the server [Here](https://github.com/ZuKomaDEVYT/ZKPrecense/releases/tag/v0.1-Beta) and then extract in any folder and execute the .exe file (Discord need be open to work obiusly)
+- Download the [RobloxPlugin](https://create.roblox.com/store/asset/124059053967595)
 
 ## What is ZKPrecense
 **ZKPresence** is a plugin developed by [ZKGames](https://www.roblox.com/communities/33688157/ZKGames) (actually, I just uploaded it there; it was made by me ZuKomaDEV :3). This plugin allows you to connect **RobloxStudio with Discord**, allowing you to show what you're working on, the game's visuals, how many collaborators you have, and let people try out your experience, among many other things.
@@ -22,4 +24,6 @@ You can customize everything, such as:
 If you want to modify the source code, it can be modified in: https://github.com/ZuKomaDEVYT/RPCStudio-By-ZuKomaDEV
 
 I hope you like the plugin too. It was made in 3 weeks, so keep that in mind...
-- ZKGames :3
+- [ZKGames](https://www.roblox.com/communities/33688157/ZKGames) :3
+
+if u have problems just comment in the [roblox dev forum]()
