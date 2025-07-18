@@ -8,7 +8,11 @@
 
 # Instalation
 Its sooo easy to use this just do you need
+<<<<<<< HEAD
 - Download the server [Here](https://github.com/ZuKomaDEVYT/ZKPrecense/releases/latest) and then extract in any folder and execute the .exe file (Discord need be open to work obiusly)
+=======
+- Download the server [Here](https://github.com/ZuKomaDEVYT/ZKPrecense/releases/tag/v0.1-Beta](https://github.com/ZuKomaDEVYT/ZKPrecense/releases/latest) and then extract in any folder and execute the .exe file (Discord need be open to work obiusly)
+>>>>>>> 3b1cb9acea5de339a0617ab0fbb9b0a6447f5ed6
 - Download the [RobloxPlugin](https://create.roblox.com/store/asset/124059053967595)
 
 ## What is ZKPrecense
