@@ -41,4 +41,4 @@ If you want to modify the source code, it can be modified in: https://github.com
 I hope you like the plugin too. It was made in 3 weeks, so keep that in mind...
 - [ZKGames](https://www.roblox.com/communities/33688157/ZKGames) :3
 
-if u have problems just comment in the [roblox dev forum]()
+if u have problems or a sugestion just comment in the [roblox dev forum](https://devforum.roblox.com/t/3822916)
