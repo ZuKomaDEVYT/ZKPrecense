@@ -1,4 +1,10 @@
-# ZKPrecense
+# ZKPrecense by ZKGames!
+
+### Special States!
+![image](https://raw.githubusercontent.com/ZuKomaDEVYT/ZKPrecense/refs/heads/main/Art/ReadmeImgs/SpecialStates.png)
+
+### Scripts States!
+![image](https://raw.githubusercontent.com/ZuKomaDEVYT/ZKPrecense/80e65ed68364959c2ff5ad63efa76bb0d4f82baf/Art/ReadmeImgs/ScriptsStates.png)
 
 # Instalation
 Its sooo easy to use this just do you need
